@@ -25,9 +25,11 @@ To apply the Subnet mask to the IP we can take the binary representation of both
 Taking Binary representation of IP and mask mentioned above:
 
 IP      -> 11000000.10101000.01111011.01111100
+
 Mask    -> 11111111.11111111.11111111.00000000
 
 Network -> 11000000.10101000.01111011.00000000
+
 Host    -> 00000000.00000000.00000000.01111100
 
 In decimal representation:
