@@ -1,4 +1,4 @@
-## Different ways of accessing an API
+# Different ways of accessing an API
 
 While accessing an API, we have several ways of authenticating and authorizing our request with the API. Following are the 3 standard ways:
 
