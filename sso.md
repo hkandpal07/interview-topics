@@ -47,6 +47,6 @@ There are two types of flows for a SAML assertion, depending on where the user s
 5. DigestValue
 6. SignatureValue
 7. X509Certificate
-8. Conditions (`NotBefore` and `NotOnOrAfter`)
+8. Conditions (***NotBefore*** and ***NotOnOrAfter***)
 9. AudienceRestriction: Mostly has the ACS for which the response is meant
 10. Default Relay State: The URL that users will be directed to after a successful authentication through SAML.
