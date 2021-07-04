@@ -2,7 +2,7 @@
 
 Proxies are used to hide the identities of clients from the server that they are trying to connect. 
 
-A proxy takes a request intended to a server from a client and modifies in a manner that to the server it seems that the request came from the proxy itself. This is done by modifying the origin IP address in a request to that of the proxy itself. Once the server sends the response, it is collected by the proxy and forwards it to the client. 
+A proxy takes a request intended to a server from a client and modifies it in a manner that to the server it seems that the request came from the proxy itself. This is done by modifying the origin IP address in a request to that of the proxy itself. Once the server sends the response, it is collected by the proxy and forwards it to the client. 
 
 Other than anonymizing the clients, proxies can be used for following: 
 
