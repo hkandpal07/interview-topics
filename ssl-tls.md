@@ -20,7 +20,7 @@ Things established during an SSL handshake for further client-server communicati
 Steps of SSL handshake:
 
 1. 'Client hello': Client initiates handshake by sending "hello" message to server. This message will have the TLS versions and the encryption algorithms that the client supports, along with a string of random bytes called client random
-2. 'Server Hello': Server replies to the client with a message providing the server's SSL certificate, servers chosen encryption algorithm, and server random.
+2. 'Server Hello': Server replies to the client with a message providing the server's SSL certificate, server's chosen encryption algorithm, and server random.
 3. Authentication: Client verifies server's SSL certificate with the CA that issues it and confirms that the server is who it says it is.
 4. Premaster Secret: Client generates a pre-master secret, which is encrypted using the servers public key.
 5. Server decrypts this premaster secret using it's private key
