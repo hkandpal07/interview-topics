@@ -1,6 +1,6 @@
 # API
 
-An API is Application Programming Interface that defines a set of rules which allow progreams to talk to each other.
+An API is Application Programming Interface that defines a set of rules which allow programs to talk to each other.
 
 ## REST API:
 
