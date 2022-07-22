@@ -4,7 +4,7 @@ SSO is an authetication tool that allows users to login into multiple applicatio
 
 ## How does SSO work?
 
-SSO works on the concept of federated identit, in which the identity attributes of a given users are shared across trusted but autonomous systems. As such, if the user is trusted by one system, they are automatically granted access to all the other systems that have a trusted relationship with that one system.
+SSO works on the concept of federated identity, in which the identity attributes of a given users are shared across trusted but autonomous systems. As such, if the user is trusted by one system, they are automatically granted access to all the other systems that have a trusted relationship with that one system.
 
 SSO systems use one of the following two protocols to assert a users identity between communicating systems:
 
