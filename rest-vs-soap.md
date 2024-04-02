@@ -8,7 +8,7 @@ REST stands for representational state transfer. It's an architectural guideline
 
 REST uses HTTP to have clients request resources from a server via a URL. An HTTP request will have following parts
 
-1. A Method (Verb) to define the nature of the request
+1. A Method (Verb) to define the nature of the request (GET, PUT, POST, PATCH, DELETE)
 2. An endpoint which specifies the resource that needs to be accessed.
 3. Headers
 4. Body
